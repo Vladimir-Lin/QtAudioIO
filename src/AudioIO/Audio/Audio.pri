@@ -1,0 +1,14 @@
+SOURCES += $${PWD}/nAudioChannel.cpp
+SOURCES += $${PWD}/nAudioConduit.cpp
+SOURCES += $${PWD}/AudioAcceptor.cpp
+SOURCES += $${PWD}/nAudioJunction.cpp
+SOURCES += $${PWD}/AudioIn.cpp
+SOURCES += $${PWD}/AudioOut.cpp
+SOURCES += $${PWD}/nAudioTributary.cpp
+SOURCES += $${PWD}/nAudioRecorder.cpp
+SOURCES += $${PWD}/nAudioPlayer.cpp
+SOURCES += $${PWD}/nAudioJack.cpp
+SOURCES += $${PWD}/AudioWriter.cpp
+SOURCES += $${PWD}/AudioReader.cpp
+SOURCES += $${PWD}/AudioFeeder.cpp
+SOURCES += $${PWD}/nNotifyPlayer.cpp
